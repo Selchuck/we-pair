@@ -1,6 +1,5 @@
 import React from "react";
 import "./SearchBar.css";
-import { Link } from "react-router-dom";
 import { SearchResults } from "../Result/Results";
 
 const users = [
